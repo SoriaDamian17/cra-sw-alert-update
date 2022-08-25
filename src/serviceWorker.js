@@ -135,3 +135,5 @@ export function unregister() {
     });
   }
 }
+
+console.log('Service worker is update');
